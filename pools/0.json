@@ -1,0 +1,7 @@
+{
+  "name": "Bifrost",
+  "base": "0xb4A027e861DE7971FfDD031c0f19a08323F5Cee9",
+  "pools": [
+      "0xCFAEF0f78f35042F26CAF52469EC5BBFfdF06BeE"
+   ]
+}
